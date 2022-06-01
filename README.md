@@ -33,6 +33,8 @@ The following proposals are currently being evaluated by the WG:
 | C  | [View](./docs/proposals/PROPOSAL_C.md) | Create Node manifest                      |
 | D  | [View](./docs/proposals/PROPOSAL_D.md) | No Changes                                |
 | E  | [View](./docs/proposals/PROPOSAL_E.md) | Cherry pick                               |
+| F  | [View](./docs/proposals/PROPOSAL_F.md) | *Reserved for Docker team*                |
+| G  | [View](./docs/proposals/PROPOSAL_G.md) | Treat signatures special, add new pagination and reference annotations |
 
 *Want to add a new proposal? Submit a PR following the format of the
 [template](./docs/TEMPLATE.md).*
